@@ -1,0 +1,27 @@
+# Aakruthi Dental Hospitals
+
+## Overview
+Aakruthi Dental Hospitals (ఆకృతి డెంటల్ హాస్పిటల్స్) is a premier dental clinic located in Shadnagar, Telangana. We provide high-quality, painless dental care using modern technology, clinical precision, and a gentle touch. 
+
+## Contact Information
+- **Phone:** +91 96664 96366, +91 95054 83446
+- **WhatsApp:** https://wa.me/919666496366
+- **Address:** 3694+2PG, Gandhi Nagar Colony, Shadnagar, Telangana 509216, India
+- **Google Maps:** https://maps.app.goo.gl/iADE89XNRSRJqVyT9
+- **Website:** https://gouthamsai-guys.github.io/Aakruthi-Dental/
+
+## Services Offered
+1. **Teeth Cleaning:** Painless scaling and polishing for healthy gums and fresh breath.
+2. **Teeth Whitening:** Professional whitening procedures for a bright smile.
+3. **Dental Implants:** High-quality, natural-looking tooth replacement solutions.
+4. **Root Canal Treatment:** Precise, pain-free therapy to save natural teeth.
+5. **Orthodontics (Braces):** Metal, ceramic, and invisible braces for teeth alignment.
+6. **Tooth Extraction:** Gentle and safe removal of problematic or wisdom teeth.
+7. **Crowns & Bridges:** Durable zirconia and ceramic crowns to restore damaged teeth.
+8. **Pediatric Dentistry:** Specialized, friendly dental care for children.
+
+## Booking Appointments
+Patients can book appointments directly by calling our clinic or sending a message via WhatsApp with their Name, Phone Number, Preferred Service, and Preferred Date.
+
+## Developer Info
+Website developed by Goutham Sai.
