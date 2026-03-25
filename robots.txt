@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://gouthamsai-guys.github.io/Aakruthi-Dental/sitemap.xml
